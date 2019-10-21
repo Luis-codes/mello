@@ -30,4 +30,4 @@ class Board {
 
 var list = new List('My first list');
 list.addCard('My first card')
-console.log(this);
+console.log(List.prototype);
